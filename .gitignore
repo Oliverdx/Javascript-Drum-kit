@@ -58,6 +58,5 @@ typings/
 .env
 
 # Deploy files
-public/
 
 netnow-redhat-65.pem
